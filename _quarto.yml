@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  site-url: https://qiufei.site/book
+  site-url: https://qiufei.site/web-book
   search: false
   # 设置网站图标
   favicon: profile.jpg
@@ -13,7 +13,7 @@ website:
         href: https://qiufei.site
     right:
       - text: R教材
-        href: https://qiufei.site/rbook
+        href: https://qiufei.site/web-book-r
       - text: python教材
         href: https://qiufei.site/pythonbook
       - text: supermind教材
