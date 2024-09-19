@@ -14,17 +14,17 @@ website:
     right:
       - text: R教材
         href: https://qiufei.site/web-book-r
-      - text: python教材
-        href: https://qiufei.site/pythonbook
-      - text: supermind教材
-        href: https://qiufei.site/supermindbook
-      - text: izhi教材
-        href: https://qiufei.site/izhibook
+      # - text: python教材
+      #   href: https://qiufei.site/pythonbook
+      # - text: supermind教材
+      #   href: https://qiufei.site/supermindbook
+      # - text: izhi教材
+      #   href: https://qiufei.site/izhibook
       # - icon: github
       #   href: https://github.com/
       - about.qmd
   page-footer:
-    left: ↑ [![](https://www.rstudio.com/assets/img/posit-logo-fullcolor-TM.svg){fig-alt="Posit" width=65px}](https://posit.co)
+    left: 🔋[![](https://posit.co/wp-content/themes/Posit/assets/images/posit-logo-2024.svg){fig-alt="Posit" width=65px}](https://posit.co)
     center: 
       - text: "邱飞 &copy; 2008-2024"
       - text: "浙ICP备 2024072710号-1"
