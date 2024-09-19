@@ -1,3 +1,3 @@
 # book
 
-qiufei.site/book
+讲义
