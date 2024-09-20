@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  site-url: https://qiufei.site/web-book
+  site-url: https://qiufei.github.io/web-book
   search: false
   # 设置网站图标
   favicon: profile.jpg
