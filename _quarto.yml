@@ -22,7 +22,8 @@ website:
       #   href: https://qiufei.site/izhibook
       # - icon: github
       #   href: https://github.com/
-      - https://github.com/qiufei/qiufei.github.io/blob/main/about.qmd
+      - text: "简介"
+        href: https://github.com/qiufei/qiufei.github.io/blob/main/about.qmd
   # page-footer:
   #   left: 🔋[![](https://posit.co/wp-content/themes/Posit/assets/images/posit-logo-2024.svg){fig-alt="Posit" width=65px}](https://posit.co)
   #   center: 
