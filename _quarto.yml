@@ -10,16 +10,16 @@ website:
   navbar:
     left:
       - text: "首页"
-        href: https://qiufei.site
+        href: https://qiufei.github.io
     right:
       - text: R教材
-        href: https://qiufei.site/web-book-r
+        href: https://qiufei.github.io/web-book-r
       # - text: python教材
-      #   href: https://qiufei.site/pythonbook
+      #   href: https://qiufei.github.io/pythonbook
       # - text: supermind教材
-      #   href: https://qiufei.site/supermindbook
+      #   href: https://qiufei.github.io/supermindbook
       # - text: izhi教材
-      #   href: https://qiufei.site/izhibook
+      #   href: https://qiufei.github.io/izhibook
       # - icon: github
       #   href: https://github.com/
       - about.qmd
