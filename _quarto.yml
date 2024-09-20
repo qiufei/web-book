@@ -6,7 +6,7 @@ website:
   search: false
   # 设置网站图标
   favicon: https://github.com/qiufei/qiufei.github.io/blob/main/profile.jpg
-  title: 讲义
+  # title: 讲义
   navbar:
     left:
       - text: "首页"

@@ -1,6 +1,6 @@
 ---
 title: "讲义：讲授课程的课本"
-image: profile.jpg
+image: https://github.com/qiufei/qiufei.github.io/blob/main/profile.jpg
 about:
   template: jolla
   links:
