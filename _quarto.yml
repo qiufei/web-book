@@ -12,7 +12,7 @@ website:
       - text: "首页"
         href: https://qiufei.site
     right:
-      - text: R教材R
+      - text: R教材
         href: https://qiufei.site/web-book-r
       # - text: python教材
       #   href: https://qiufei.site/pythonbook
@@ -22,7 +22,7 @@ website:
       #   href: https://qiufei.site/izhibook
       # - icon: github
       #   href: https://github.com/
-      - about.qmd
+      - https://github.com/qiufei/qiufei.github.io/blob/main/about.qmd
   # page-footer:
   #   left: 🔋[![](https://posit.co/wp-content/themes/Posit/assets/images/posit-logo-2024.svg){fig-alt="Posit" width=65px}](https://posit.co)
   #   center: 
