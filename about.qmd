@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "简介"
 image: profile.jpg
 about:
@@ -25,4 +25,7 @@ email-obfuscation: javascript
 
 我是邱飞，这是我的个人网站，
 
-用于分享一些数据分析文章，还有个人的记录和资料。
+用于分享一些数据分析文章，还有个人的记录和资料。 -->
+
+
+{{< include https://raw.githubusercontent.com/qiufei/qiufei.github.io/main/readme.md >}}
