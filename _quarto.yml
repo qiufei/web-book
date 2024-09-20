@@ -6,7 +6,7 @@ website:
   search: false
   # 设置网站图标
   favicon: profile.jpg
-  # title: "课件"
+  title: 讲义
   navbar:
     left:
       - text: "首页"
