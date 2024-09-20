@@ -28,4 +28,4 @@ email-obfuscation: javascript
 用于分享一些数据分析文章，还有个人的记录和资料。 -->
 
 
-{{< include https://github.com/qiufei/qiufei.github.io/blob/main/about.qmd >}}
+{{< include https://github.com/qiufei/qiufei.github.io/raw/refs/heads/main/about.qmd >}}
