@@ -23,7 +23,7 @@ website:
       # - icon: github
       #   href: https://github.com/
       - text: "简介"
-        href: https://github.com/qiufei/qiufei.github.io/blob/main/about.qmd
+        href: https://github.com/qiufei/qiufei.github.io/raw/refs/heads/main/about.qmd
   # page-footer:
   #   left: 🔋[![](https://posit.co/wp-content/themes/Posit/assets/images/posit-logo-2024.svg){fig-alt="Posit" width=65px}](https://posit.co)
   #   center: 
