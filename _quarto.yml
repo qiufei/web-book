@@ -35,8 +35,8 @@ website:
   #     - icon: envelope-at-fill
   #       href: mailto:hfutqiufei@163.com
   #     # - text: ←
-include:
-  https://github.com/qiufei/qiufei.github.io/blob/main/page-footer.yml
+metadata-files:
+  - https://github.com/qiufei/qiufei.github.io/blob/main/page-footer.yml
 
 format:
   html:
